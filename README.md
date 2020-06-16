@@ -1,6 +1,6 @@
 # Quickly Build an Alexa Skill Using ASK CLI
 
-![Alexa Skill Starter](/src/assets/desktopbbgettingstarted.jpeg)
+![Alexa Skill Starter](/skill-package/assets/desktopbbgettingstarted.jpeg)
 
 Detailed instructions available in my Medium Post:
 
